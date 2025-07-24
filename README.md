@@ -63,12 +63,12 @@ This table shows the goals scored and clutch score for each players. A goal's cl
 
 1 and 2. **Declan Rice** v Real Madrid, Champions League
 
-**Clutch score:** 10 (First goal + go-ahead + winning goal)
-**Opponent score:** 3 - Defending champions Real Madrid
-**Competition score:** 3 - Champions League quarterfinal
-**Context score:** 3 - Arsenal’s biggest game in the Champions League in years
-**Bonus score:** 10 - He scored not once, but twice
-**Total clutch score:** 29
+- **Clutch score:** 10 (First goal + go-ahead + winning goal)
+- **Opponent score:** 3 - Defending champions Real Madrid
+- **Competition score:** 3 - Champions League quarterfinal
+- **Context score:** 3 - Arsenal’s biggest game in the Champions League in years
+- **Bonus score:** 10 - He scored not once, but twice
+- **Total clutch score:** 29
 
 When Real Madrid rolled into town, Arsenal weren’t exactly giving up on their Premier League title dream - but Declan Rice deliciously taken free-kick allow Arsenal fans everywhere to dream that maybe, just maybe, they can go all the way and win the club’s first ever Champions League trophy.
 
@@ -88,12 +88,12 @@ For one night, Rice shows exactly why Arsenal made him the club’s first ever n
 
 3. **Mikel Merino** at Leicester City, Premier League	
 
-**Clutch score:** 9 (First goal + go-ahead + late goal + winning goal)
-**Opponent score:** 1
-**Competition score:** 3
-**Context score:** 3 - No fit senior striker, away from home
-**Bonus score:** 1 - He scored not once, but twice
-**Total clutch score:** 17
+- **Clutch score:** 9 (First goal + go-ahead + late goal + winning goal)
+- **Opponent score:** 1
+- **Competition score:** 3
+- **Context score:** 3 - No fit senior striker, away from home
+- **Bonus score:** 1 - He scored not once, but twice
+- **Total clutch score:** 17
 
 According to Wikipedia, the principle 'Less is more' has the basic meaning of keeping things simple. That was certainly the case when Arsenal visited the King Power Stadium to play Leicester City. At that stage of the season, Arsenal were without Saka and Gabriel Jesus, who sustained a knee injury against Manchester United in the FA Cup. To make matters worse, Kai Havertz suffered a hamstring injury during training camp in Dubai.
 
@@ -105,12 +105,12 @@ Sometimes, less (instruction) is more.
 
 4. **Myles Lewis-Skelly** v Manchester City, Premier League	
 
-**Clutch score:** 1 (Other)
-**Opponent score:** 3
-**Competition score:** 3
-**Context score:** 3 - Arsenal put the nail in the coffin of City’s title bid
-**Bonus score:** 5 - 18 year-old academy graduate scored first Arsenal goal and then copied the opponent’s celebration? Chef’s kiss.
-**Total clutch score:** 15
+- **Clutch score:** 1 (Other)
+- **Opponent score:** 3
+- **Competition score:** 3
+- **Context score:** 3 - Arsenal put the nail in the coffin of City’s title bid
+- **Bonus score:** 5 - 18 year-old academy graduate scored first Arsenal goal and then copied the opponent’s celebration? Chef’s kiss.
+- **Total clutch score:** 15
 
 During the first game earlier in the season against Manchester City at the Etihad, Lewis-Skelly's name is destined to be one of those trivia answer, after picking up a yellow card before even making his debut for Arsenal (which he did later in added time).
 
@@ -126,11 +126,11 @@ Safe to say Haaland won't be asking 'Who the f* are you?'. It's Myles Lewis-Skel
 
 5. **Riccardo Calafiori** at Wolves, Premier League	
 
-**Clutch score:** 7 (First goal + go-ahead + winning goal)
-**Opponent score:** 1.5
-**Competition score:** 3
-**Context score:** 3 - In a season where Arsenal seems to be on the receiving end of questionable calls, this one takes the cake.
-**Total clutch score:** 14.5
+- **Clutch score:** 7 (First goal + go-ahead + winning goal)
+- **Opponent score:** 1.5
+- **Competition score:** 3
+- **Context score:** 3 - In a season where Arsenal seems to be on the receiving end of questionable calls, this one takes the cake.
+- **Total clutch score:** 14.5
 
 Arsenal had been on the receiving end of some baffling refereeing decisions, but Michael Oliver’s decision to send off Myles Lewis-Skelly for a challenge that is admittedly cynical, but nowhere near meeting the threshold of what you would consider reckless and violent - surely topped the list. It means Arsenal had to play with 10-men for the majority of the game (just like against Brighton and Manchester City), stretching a depleted squad just before a crucial meeting against Manchester City a week later.
 
@@ -140,12 +140,12 @@ Calafiori scored the only goal of the game - which led me to believe that he cou
 
 6. **Bukayo Saka** v Liverpool, Premier League	
 
-**Clutch score:** 4 (First goal + go-ahead)
-**Opponent score:** 3
-**Competition score:** 3
-**Context score:** 3 - First place taking on second place
+- **Clutch score:** 4 (First goal + go-ahead)
+- **Opponent score:** 3
+- **Competition score:** 3
+- **Context score:** 3 - First place taking on second place
 **Bonus score:** 1 - Saka’s 50th Premier League goal, the youngest Arsenal player to do it
-Total clutch score: 14
+- **Total clutch score:** 14
 
 It was a special day for Arsenal’s star, Bukayo Saka, as he scored his 50th Premier League goal, making him the youngest Arsenal player to achieve the feat at 23 years and 52 days. He also wore the captain’s armband as Martin Ødegaard was sidelined because of an injury picked up while on international duty with Norway.
 
@@ -157,12 +157,12 @@ Saka was in fine form in the first quarter of the season with 10 goals + assists
 
 7. **Riccardo Calafiori** at Manchester City, Premier League	
 
-**Clutch score:** 3 (Equalizer)
-**Opponent score:** 3
-**Competition score:** 3
-**Context score:** 3 - Champions against runners-up for the past two seasons
-**Bonus:** 2 - debut goal in first start for Arsenal
-**Total clutch score:** 14
+- **Clutch score:** 3 (Equalizer)
+- **Opponent score:** 3
+- **Competition score:** 3
+- **Context score:** 3 - Champions against runners-up for the past two seasons
+- **Bonus:** 2 - debut goal in first start for Arsenal
+- **Total clutch score:** 14
 
 Calafiori endured a stop-start debut season at Arsenal owing to niggling injuries - he featured in 29 matches across three competitions, accruing 1.496 minutes. Calafiori did made the best first impression, scoring a well-taken equalizer against Manchester City in an early top of the table clash back in September. Twenty-two minutes into his first start, Arsenal were down by a goal after Erling Haaland opened the scoring in the ninth minute.
 
@@ -172,11 +172,11 @@ A quick restart by Arsenal saw Martinelli lay off the ball for Calafiori, with t
 
 8. **Gabriel Magalhaes** at Spurs, Premier League	
 
-**Clutch score:** 7 (First goal + go-ahead + winning goal)
-**Opponent score:** 3
-**Competition score:** 2.5
-**Context score:** 1.5 - The North London Derby is always a big game but considering the season that Spurs had in the league, it was a match against a bottom half side.
-**Total clutch score:** 14
+- **Clutch score:** 7 (First goal + go-ahead + winning goal)
+- **Opponent score:** 3
+- **Competition score:** 2.5
+- **Context score:** 1.5 - The North London Derby is always a big game but considering the season that Spurs had in the league, it was a match against a bottom half side.
+- **Total clutch score:** 14
 
 Arsenal are no strangers to scoring centre backs, Tony Adams with that goal against Everton in the league to seal the double back in 1998. Thomas Vermaelen for that one season. Laurent Koscielny’s equalizer against Hull City in the FA Cup final in 2014.
 
@@ -190,11 +190,11 @@ All the sweeter as Gabriel’s header on this day embodies the ‘One-nil to the
 
 9. **Leandro Trossard** at Aston Villa, Premier League	
 
-**Clutch score:** 7 (First goal + go-ahead + winning goal)
-**Opponent score:** 2
-**Competition score:** 2.5
-**Context score:** 2 - A tough away game early in the season against a team that did the double over Arsenal in the league the season prior. Oh and an angry Belgian winger.
-**Total clutch score:** 13.5
+-  **Clutch score:** 7 (First goal + go-ahead + winning goal)
+- **Opponent score:** 2
+-  **Competition score:** 2.5
+-  **Context score:** 2 - A tough away game early in the season against a team that did the double over Arsenal in the league the season prior. Oh and an angry Belgian winger.
+- **Total clutch score:** 13.5
 
 Aston Villa did the double against Arsenal back in 2023-24 and it was the 2-0 win back in April that practically ended Arsenal’s title bid. With former Arsenal men Unai Emery on the sidelines and Emi Martinez in goal, it’s definitely a game where Arteta would want his side to impose themselves while maintaining a perfect start to the season.
 
@@ -204,11 +204,11 @@ And he enjoyed every moment of it. Look at this [glorious celebration](https://w
 
 10. **Ethan Nwaneri** at Brighton, Premier League	
 
-**Clutch score:** 6 (First goal + go-ahead)
-**Opponent score:** 2
-**Competition score:** 2.5
-**Context score:** 1.5 - With Arsenal missing Bukayo Saka to a significant injury, the teenager showed why Arteta gave him an Arsenal debut at 15
-**Total clutch score:** 12
+- **Clutch score:** 6 (First goal + go-ahead)
+- **Opponent score:** 2
+- **Competition score:** 2.5
+- **Context score:** 1.5 - With Arsenal missing Bukayo Saka to a significant injury, the teenager showed why Arteta gave him an Arsenal debut at 15
+- **Total clutch score:** 12
 
 This goal was not Nwaneri’s first Premier League goal (that came against Nottingham Forest in November) - but it is one that shows why Arteta trusted him to step into the Saka-sized hole in Arsenal’s frontline. Picking the ball up in midfield from Merino’s lofted ball, Nwaneri drove through acres of space directly to Brighton’s penalty area. From there he unleashed a curler with his left foot that beat Bart Verbreuggen in the home’s team goal. Making him the third player to score five or more goals in all competitions after Michael Owen and Wayne Rooney.
 
