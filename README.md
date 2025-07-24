@@ -95,7 +95,13 @@ For one night, Rice shows exactly why Arsenal made him the club’s first ever n
 **Bonus score:** 1 - He scored not once, but twice
 **Total clutch score:** 17
 
-Writeup here.
+According to Wikipedia, the principle 'Less is more' has the basic meaning of keeping things simple. That was certainly the case when Arsenal visited the King Power Stadium to play Leicester City. At that stage of the season, Arsenal were without Saka and Gabriel Jesus, who sustained a knee injury against Manchester United in the FA Cup. To make matters worse, Kai Havertz suffered a hamstring injury during training camp in Dubai.
+
+With Arsenal title hope hanging by a thread, a draw against a relegation threatened Leicester would be a significant blow for The Gunners. Coming off the bench in the 68th minute, Merino went on to score a brace. He spoke of how he prepared playing as a striker:
+
+_"I think they did it deliberately, not telling me until the last minute because they know I like to have everything under control, have lots of information, and by not telling me earlier they removed the ‘stress’"_
+
+Sometimes, less (instruction) is more.
 
 4. **Myles Lewis-Skelly** v Manchester City, Premier League	
 
@@ -106,7 +112,17 @@ Writeup here.
 **Bonus score:** 5 - 18 year-old academy graduate scored first Arsenal goal and then copied the opponent’s celebration? Chef’s kiss.
 **Total clutch score:** 15
 
-Writeup here.
+During the first game earlier in the season against Manchester City at the Etihad, Lewis-Skelly's name is destined to be one of those trivia answer, after picking up a yellow card before even making his debut for Arsenal (which he did later in added time).
+
+Fast forward to February and Lewis-Skelly had cemented his place in the starting XI playing in the left back role. Initially unable to play in the game after he was sent-off by Michael Oliver in the Wolves game, an error so egregious that it unites almost everyone regardless of their club affiliation, Lewis-Skelly went on to made his mark in the game by scoring Arsenal's third goal of the game.
+
+Asking for the ball from Declan Rice, Lewis-Skelly then drive onto City's penalty area setting himself for a right-footed finish that was too hot to handle for Stefan Ortega in City's goal.
+
+He then went on to celebrate:
+
+![Lewis-Skelly celebrates his goal against Man City](images/Myles-Lewis-Skelly-celebration-v-city.jpeg)
+
+Safe to say Haaland won't be asking 'Who the f* are you?'. It's Myles Lewis-Skelly, remember the name. 
 
 5. **Riccardo Calafiori** at Wolves, Premier League	
 
@@ -202,9 +218,11 @@ This goal was not Nwaneri’s first Premier League goal (that came against Notti
 
 - Match and player data: WhoScored.com
 
-- U-21 performance data: FBref via StatsBomb
+- U-21 performance data: OPTA via FBRef
 
-- Logos and pitch visuals: MPLSoccer
+- Logos, player portraits and pitch visuals: sofifa.com, MPLSoccer
+
+- Photo of Myles-Lewis Skelly: standard.co.uk
 
 Graphics by @jsonrbrt.bsky.social
 
