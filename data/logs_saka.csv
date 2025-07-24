@@ -1,0 +1,38 @@
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min
+2024-08-17,Sat,Premier League,Matchweek 1,Home,W 2–0,Arsenal,Wolves,True,RW,79.0
+2024-08-24,Sat,Premier League,Matchweek 2,Away,W 2–0,Arsenal,Aston Villa,True,RW,87.0
+2024-08-31,Sat,Premier League,Matchweek 3,Home,D 1–1,Arsenal,Brighton,True,"RW,CM,RM",90.0
+2024-09-15,Sun,Premier League,Matchweek 4,Away,W 1–0,Arsenal,Tottenham,True,"RM,RW",85.0
+2024-09-19,Thu,Champions Lg,League phase,Away,D 0–0,Arsenal,it Atalanta,True,RW,72.0
+2024-09-22,Sun,Premier League,Matchweek 5,Away,D 2–2,Arsenal,Manchester City,True,RM,45.0
+2024-09-25,Wed,EFL Cup,Third round,Home,W 5–1,Arsenal,Bolton,True,FW,70.0
+2024-09-28,Sat,Premier League,Matchweek 6,Home,W 4–2,Arsenal,Leicester City,True,RM,90.0
+2024-10-01,Tue,Champions Lg,League phase,Home,W 2–0,Arsenal,fr Paris S-G,True,RM,89.0
+2024-10-05,Sat,Premier League,Matchweek 7,Home,W 3–1,Arsenal,Southampton,True,RM,90.0
+2024-10-27,Sun,Premier League,Matchweek 9,Home,D 2–2,Arsenal,Liverpool,True,RM,84.0
+2024-10-30,Wed,EFL Cup,Fourth round,Away,W 3–0,Arsenal,Preston,False,,29.0
+2024-11-02,Sat,Premier League,Matchweek 10,Away,L 0–1,Arsenal,Newcastle Utd,True,RM,90.0
+2024-11-06,Wed,Champions Lg,League phase,Away,L 0–1,Arsenal,it Inter,True,RM,90.0
+2024-11-10,Sun,Premier League,Matchweek 11,Away,D 1–1,Arsenal,Chelsea,True,RW,80.0
+2024-11-23,Sat,Premier League,Matchweek 12,Home,W 3–0,Arsenal,Nott'ham Forest,True,RW,82.0
+2024-11-26,Tue,Champions Lg,League phase,Away,W 5–1,Arsenal,pt Sporting CP,True,RW,90.0
+2024-11-30,Sat,Premier League,Matchweek 13,Away,W 5–2,Arsenal,West Ham,True,RW,73.0
+2024-12-04,Wed,Premier League,Matchweek 14,Home,W 2–0,Arsenal,Manchester Utd,True,RW,90.0
+2024-12-08,Sun,Premier League,Matchweek 15,Away,D 1–1,Arsenal,Fulham,True,RW,90.0
+2024-12-11,Wed,Champions Lg,League phase,Home,W 3–0,Arsenal,fr Monaco,True,RW,90.0
+2024-12-14,Sat,Premier League,Matchweek 16,Home,D 0–0,Arsenal,Everton,True,RW,90.0
+2024-12-18,Wed,EFL Cup,Quarter-finals,Home,W 3–2,Arsenal,Crystal Palace,False,,21.0
+2024-12-21,Sat,Premier League,Matchweek 17,Away,W 5–1,Arsenal,Crystal Palace,True,RW,23.0
+2025-04-01,Tue,Premier League,Matchweek 30,Home,W 2–1,Arsenal,Fulham,False,RW,25.0
+2025-04-05,Sat,Premier League,Matchweek 31,Away,D 1–1,Arsenal,Everton,False,RW,45.0
+2025-04-08,Tue,Champions Lg,Quarter-finals,Home,W 3–0,Arsenal,es Real Madrid,True,RW,73.0
+2025-04-12,Sat,Premier League,Matchweek 32,Home,D 1–1,Arsenal,Brentford,False,RW,29.0
+2025-04-16,Wed,Champions Lg,Quarter-finals,Away,W 2–1,Arsenal,es Real Madrid,True,RW,76.0
+2025-04-20,Sun,Premier League,Matchweek 33,Away,W 4–0,Arsenal,Ipswich Town,True,RW,56.0
+2025-04-23,Wed,Premier League,Matchweek 34,Home,D 2–2,Arsenal,Crystal Palace,False,RW,31.0
+2025-04-29,Tue,Champions Lg,Semi-finals,Home,L 0–1,Arsenal,fr Paris S-G,True,RW,90.0
+2025-05-03,Sat,Premier League,Matchweek 35,Home,L 1–2,Arsenal,Bournemouth,True,RW,85.0
+2025-05-07,Wed,Champions Lg,Semi-finals,Away,L 1–2,Arsenal,fr Paris S-G,True,RW,90.0
+2025-05-11,Sun,Premier League,Matchweek 36,Away,D 2–2,Arsenal,Liverpool,True,"RW,CM",87.0
+2025-05-18,Sun,Premier League,Matchweek 37,Home,W 1–0,Arsenal,Newcastle Utd,True,RW,75.0
+2025-05-25,Sun,Premier League,Matchweek 38,Away,W 2–1,Arsenal,Southampton,False,RW,28.0

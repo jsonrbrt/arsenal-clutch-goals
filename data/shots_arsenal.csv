@@ -1,0 +1,731 @@
+Minute,Player,Squad,xG,PSxG,Outcome,Distance,Body Part,Notes,Date,URL,match_key
+14,Ben White,Arsenal,0.04,0.14,Saved,28.0,Right Foot,Deflected,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+14,Kai Havertz,Arsenal,0.02,0.0,Blocked,18.0,Left Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+15,Bukayo Saka,Arsenal,0.02,0.25,Saved,17.0,Left Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+16,Ben White,Arsenal,0.03,0.0,Off Target,21.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+18,Bukayo Saka,Arsenal,0.03,0.02,Saved,18.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+19,Declan Rice,Arsenal,0.09,0.0,Off Target,17.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+25,Kai Havertz,Arsenal,0.14,0.73,Goal,9.0,Head,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+37,Bukayo Saka,Arsenal,0.22,0.0,Off Target,8.0,Head,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+40,Bukayo Saka,Arsenal,0.05,0.0,Off Target,28.0,Left Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+44,Gabriel Martinelli,Arsenal,0.08,0.0,Blocked,11.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+50,Kai Havertz,Arsenal,0.16,0.0,Off Target,13.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+55,Gabriel Magalhães,Arsenal,0.12,0.0,Blocked,6.0,Head,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+58,Thomas Partey,Arsenal,0.06,0.0,Off Target,22.0,Left Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+59,Kai Havertz,Arsenal,0.07,0.0,Blocked,13.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+70,Martin Ødegaard,Arsenal,0.02,0.33,Saved,25.0,Left Foot,Deflected,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+71,Jurriën Timber,Arsenal,0.02,0.0,Blocked,23.0,Right Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+74,Bukayo Saka,Arsenal,0.03,0.23,Goal,17.0,Left Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+80,Kai Havertz,Arsenal,0.06,0.0,Blocked,18.0,Left Foot,,2024-08-17,https://fbref.com/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,c0e3342a
+7,Declan Rice,Arsenal,0.07,0.15,Saved,17.0,Left Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+16,Bukayo Saka,Arsenal,0.05,0.13,Saved,16.0,Left Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+32,Thomas Partey,Arsenal,0.03,0.0,Off Target,29.0,Right Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+39,Kai Havertz,Arsenal,0.21,0.0,Off Target,5.0,Left Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+67,Leandro Trossard,Arsenal,0.13,0.38,Goal,13.0,Right Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+77,Thomas Partey,Arsenal,0.07,0.23,Goal,21.0,Right Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+80,Martin Ødegaard,Arsenal,0.26,0.0,Off Target,12.0,Left Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+83,Leandro Trossard,Arsenal,0.02,0.0,Off Target,25.0,Left Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+94,Leandro Trossard,Arsenal,0.03,0.0,Blocked,30.0,Right Foot,,2024-08-24,https://fbref.com/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,4692171a
+2,Bukayo Saka,Arsenal,0.06,0.23,Saved,3.0,Left Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+8,Bukayo Saka,Arsenal,0.11,0.1,Saved,9.0,Left Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+11,Ben White,Arsenal,0.04,0.0,Blocked,16.0,Right Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+18,Martin Ødegaard,Arsenal,0.18,0.1,Saved,11.0,Right Foot,Volley,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+38,Kai Havertz,Arsenal,0.57,0.25,Goal,25.0,Left Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+47,Leandro Trossard,Arsenal,0.03,0.2,Saved,18.0,Right Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+46,Declan Rice,Arsenal,0.03,0.0,Off Target,16.0,Right Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+47,Gabriel Magalhães,Arsenal,0.12,0.0,Off Target,3.0,Head,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+75,Kai Havertz,Arsenal,0.25,0.64,Saved,16.0,Left Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+75,Bukayo Saka,Arsenal,0.21,0.0,Blocked,15.0,Left Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+77,Bukayo Saka,Arsenal,0.6,0.84,Saved,10.0,Left Foot,,2024-08-31,https://fbref.com/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,a843d023
+17,Jurriën Timber,Arsenal,0.05,0.0,Blocked,14.0,Right Foot,,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+18,Kai Havertz,Arsenal,0.08,0.1,Saved,10.0,Head,,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+19,Gabriel Martinelli,Arsenal,0.17,0.12,Saved,15.0,Right Foot,,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+23,Leandro Trossard,Arsenal,0.05,0.0,Blocked,17.0,Left Foot,Volley,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+23,Kai Havertz,Arsenal,0.09,0.74,Saved,8.0,Head,Deflected,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+63,Bukayo Saka,Arsenal,0.07,0.0,Blocked,17.0,Left Foot,,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+64,Gabriel Magalhães,Arsenal,0.23,0.41,Goal,4.0,Head,,2024-09-15,https://fbref.com/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,17774a57
+4,Bukayo Saka,Arsenal,0.03,0.0,Blocked,22.0,Left Foot,,2024-09-19,https://fbref.com/en/matches/108b9e41/Atalanta-Arsenal-September-19-2024-Champions-League,108b9e41
+6,Kai Havertz,Arsenal,0.05,0.0,Off Target,13.0,Right Foot,,2024-09-19,https://fbref.com/en/matches/108b9e41/Atalanta-Arsenal-September-19-2024-Champions-League,108b9e41
+13,Bukayo Saka,Arsenal,0.05,0.5,Saved,26.0,Left Foot,Free kick,2024-09-19,https://fbref.com/en/matches/108b9e41/Atalanta-Arsenal-September-19-2024-Champions-League,108b9e41
+14,Thomas Partey,Arsenal,0.08,0.61,Saved,2.0,Left Foot,,2024-09-19,https://fbref.com/en/matches/108b9e41/Atalanta-Arsenal-September-19-2024-Champions-League,108b9e41
+18,Gabriel Martinelli,Arsenal,0.08,0.0,Off Target,13.0,Right Foot,,2024-09-19,https://fbref.com/en/matches/108b9e41/Atalanta-Arsenal-September-19-2024-Champions-League,108b9e41
+75,Gabriel Martinelli,Arsenal,0.49,0.0,Off Target,12.0,Right Foot,,2024-09-19,https://fbref.com/en/matches/108b9e41/Atalanta-Arsenal-September-19-2024-Champions-League,108b9e41
+22,Riccardo Calafiori,Arsenal,0.02,0.28,Goal,25.0,Left Foot,,2024-09-22,https://fbref.com/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,d7538020
+38,Gabriel Magalhães,Arsenal,0.18,0.0,Off Target,3.0,Head,,2024-09-22,https://fbref.com/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,d7538020
+42,Leandro Trossard,Arsenal,0.09,0.0,Off Target,13.0,Right Foot,,2024-09-22,https://fbref.com/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,d7538020
+46,Gabriel Magalhães,Arsenal,0.32,0.97,Goal,2.0,Head,,2024-09-22,https://fbref.com/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,d7538020
+97,Kai Havertz,Arsenal,0.07,0.22,Saved,14.0,Left Foot,Volley,2024-09-22,https://fbref.com/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,d7538020
+13,Jurriën Timber,Arsenal,0.03,0.0,Blocked,16.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+15,Bukayo Saka,Arsenal,0.02,0.11,Saved,32.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+16,Gabriel Martinelli,Arsenal,0.07,0.0,Off Target,9.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+20,Gabriel Martinelli,Arsenal,0.2,0.83,Goal,15.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+25,Riccardo Calafiori,Arsenal,0.02,0.02,Saved,26.0,Left Foot,Volley,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+25,Gabriel Martinelli,Arsenal,0.05,0.06,Saved,11.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+27,Bukayo Saka,Arsenal,0.04,0.0,Blocked,24.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+34,Declan Rice,Arsenal,0.03,0.0,Blocked,20.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+34,Gabriel Martinelli,Arsenal,0.07,0.0,Off Target,18.0,Right Foot,Volley,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+37,Kai Havertz,Arsenal,0.05,0.0,Off Target,10.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+46,Leandro Trossard,Arsenal,0.6,0.98,Goal,11.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+48,Kai Havertz,Arsenal,0.12,0.0,Blocked,8.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+53,Gabriel Magalhães,Arsenal,0.12,0.39,Saved,5.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+53,Riccardo Calafiori,Arsenal,0.37,0.89,Saved,3.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+53,Jurriën Timber,Arsenal,0.17,0.0,Off Target,11.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+54,Bukayo Saka,Arsenal,0.02,0.05,Saved,13.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+55,Kai Havertz,Arsenal,0.05,0.0,Off Target,22.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+56,Bukayo Saka,Arsenal,0.03,0.0,Off Target,16.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+58,Bukayo Saka,Arsenal,0.07,0.0,Blocked,11.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+58,Leandro Trossard,Arsenal,0.26,0.0,Woodwork,11.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+67,Kai Havertz,Arsenal,0.07,0.0,Blocked,3.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+67,Leandro Trossard,Arsenal,0.08,0.0,Blocked,15.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+68,Bukayo Saka,Arsenal,0.08,0.0,Blocked,14.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+69,Kai Havertz,Arsenal,0.59,0.36,Saved,5.0,Right Foot,Volley,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+73,Gabriel Magalhães,Arsenal,0.12,0.0,Off Target,4.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+73,Declan Rice,Arsenal,0.01,0.01,Saved,26.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+74,Leandro Trossard,Arsenal,0.16,0.36,Saved,13.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+75,Gabriel Magalhães,Arsenal,0.04,0.11,Saved,19.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+86,Ethan Nwaneri,Arsenal,0.02,0.05,Saved,27.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+87,Bukayo Saka,Arsenal,0.03,0.0,Blocked,23.0,Left Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+88,Riccardo Calafiori,Arsenal,0.09,0.43,Saved,4.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+89,Kai Havertz,Arsenal,0.12,0.0,Off Target,8.0,Head,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+93,Declan Rice,Arsenal,0.02,0.0,Off Target,26.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+99,Gabriel Jesus,Arsenal,0.11,0.11,Saved,14.0,Right Foot,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+99,Kai Havertz,Arsenal,0.89,1.0,Goal,2.0,Other,,2024-09-28,https://fbref.com/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,2ee60ac7
+9,Bukayo Saka,Arsenal,0.04,0.0,Off Target,18.0,Left Foot,,2024-10-01,https://fbref.com/en/matches/190f7f3f/Arsenal-Paris-Saint-Germain-October-1-2024-Champions-League,190f7f3f
+20,Kai Havertz,Arsenal,0.19,0.9,Goal,7.0,Head,,2024-10-01,https://fbref.com/en/matches/190f7f3f/Arsenal-Paris-Saint-Germain-October-1-2024-Champions-League,190f7f3f
+35,Bukayo Saka,Arsenal,0.03,0.01,Goal,33.0,Left Foot,Free kick,2024-10-01,https://fbref.com/en/matches/190f7f3f/Arsenal-Paris-Saint-Germain-October-1-2024-Champions-League,190f7f3f
+52,Gabriel Martinelli,Arsenal,0.17,0.07,Saved,16.0,Left Foot,Volley,2024-10-01,https://fbref.com/en/matches/190f7f3f/Arsenal-Paris-Saint-Germain-October-1-2024-Champions-League,190f7f3f
+58,Kai Havertz,Arsenal,0.15,0.55,Saved,10.0,Head,Deflected,2024-10-01,https://fbref.com/en/matches/190f7f3f/Arsenal-Paris-Saint-Germain-October-1-2024-Champions-League,190f7f3f
+75,Gabriel Martinelli,Arsenal,0.12,0.08,Saved,11.0,Right Foot,,2024-10-01,https://fbref.com/en/matches/190f7f3f/Arsenal-Paris-Saint-Germain-October-1-2024-Champions-League,190f7f3f
+4,Gabriel Magalhães,Arsenal,0.06,0.0,Blocked,6.0,Head,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+4,Gabriel Jesus,Arsenal,0.17,0.0,Off Target,10.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+5,Gabriel Jesus,Arsenal,0.17,0.0,Blocked,10.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+7,Raheem Sterling,Arsenal,0.13,0.0,Off Target,7.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+12,Kai Havertz,Arsenal,0.1,0.0,Off Target,4.0,Head,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+15,Bukayo Saka,Arsenal,0.05,0.0,Blocked,12.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+20,Bukayo Saka,Arsenal,0.06,0.0,Blocked,13.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+31,Kai Havertz,Arsenal,0.09,0.0,Blocked,15.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+33,Bukayo Saka,Arsenal,0.02,0.0,Off Target,28.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+36,Gabriel Magalhães,Arsenal,0.02,0.0,Off Target,32.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+40,Bukayo Saka,Arsenal,0.04,0.0,Blocked,14.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+40,Jorginho,Arsenal,0.04,0.0,Off Target,22.0,Right Foot,Volley,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+45,Raheem Sterling,Arsenal,0.21,0.0,Blocked,13.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+46,Thomas Partey,Arsenal,0.06,0.23,Saved,22.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+46,Gabriel Jesus,Arsenal,0.05,0.0,Off Target,23.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+58,Kai Havertz,Arsenal,0.13,0.52,Goal,18.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+62,Declan Rice,Arsenal,0.07,0.0,Off Target,22.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+63,Kai Havertz,Arsenal,0.03,0.0,Off Target,28.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+64,Thomas Partey,Arsenal,0.05,0.0,Blocked,23.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+67,Kai Havertz,Arsenal,0.17,0.0,Off Target,6.0,Head,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+68,Gabriel Martinelli,Arsenal,0.41,0.55,Goal,2.0,Left Foot,Volley,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+73,Bukayo Saka,Arsenal,0.03,0.35,Saved,14.0,Left Foot,Deflected,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+80,Kai Havertz,Arsenal,0.04,0.0,Off Target,14.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+83,Declan Rice,Arsenal,0.07,0.0,Blocked,24.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+88,Bukayo Saka,Arsenal,0.06,0.29,Goal,15.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+91,Bukayo Saka,Arsenal,0.05,0.0,Blocked,18.0,Left Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+92,Kai Havertz,Arsenal,0.22,0.71,Saved,4.0,Head,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+92,Takehiro Tomiyasu,Arsenal,0.18,0.0,Woodwork,1.0,Right Foot,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+96,Gabriel Magalhães,Arsenal,0.12,0.0,Off Target,5.0,Head,,2024-10-05,https://fbref.com/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,c6439e5b
+11,Gabriel Magalhães,Arsenal,0.02,0.0,Blocked,12.0,Head,,2024-10-19,https://fbref.com/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,01e63a1f
+35,Mikel Merino,Arsenal,0.15,0.0,Off Target,13.0,Left Foot,,2024-10-19,https://fbref.com/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,01e63a1f
+46,Thomas Partey,Arsenal,0.05,0.0,Off Target,21.0,Right Foot,Volley,2024-10-19,https://fbref.com/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,01e63a1f
+51,Kai Havertz,Arsenal,0.04,0.0,Off Target,11.0,Head,,2024-10-19,https://fbref.com/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,01e63a1f
+69,Gabriel Martinelli,Arsenal,0.36,0.32,Saved,19.0,Right Foot,,2024-10-19,https://fbref.com/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,01e63a1f
+69,Gabriel Martinelli,Arsenal,0.09,0.0,Off Target,15.0,Right Foot,Volley,2024-10-19,https://fbref.com/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,01e63a1f
+6,Riccardo Calafiori,Arsenal,0.09,0.0,Off Target,9.0,Left Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+20,Leandro Trossard,Arsenal,0.04,0.0,Off Target,14.0,Left Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+21,Declan Rice,Arsenal,0.02,0.0,Off Target,32.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+22,Leandro Trossard,Arsenal,0.14,0.0,Off Target,5.0,Right Foot,Volley,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+24,Riccardo Calafiori,Arsenal,0.01,0.01,Saved,23.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+29,Gabriel Martinelli,Arsenal,0.05,0.0,Blocked,16.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+44,Gabriel Jesus,Arsenal,0.27,0.17,Saved,9.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+46,Gabriel Jesus,Arsenal,0.08,0.0,Blocked,9.0,Left Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+47,Leandro Trossard,Arsenal,0.09,0.0,Off Target,11.0,Head,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+53,Gabriel Martinelli,Arsenal,0.04,0.08,Saved,17.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+55,Leandro Trossard,Arsenal,0.03,0.0,Off Target,23.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+77,Leandro Trossard (pen),Arsenal,0.79,0.91,Saved,13.0,Right Foot,,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+90,Declan Rice,Arsenal,0.18,0.71,Saved,11.0,Right Foot,Volley,2024-10-22,https://fbref.com/en/matches/32f2220e/Arsenal-Shakhtar-Donetsk-October-22-2024-Champions-League,32f2220e
+9,Bukayo Saka,Arsenal,0.17,0.71,Goal,9.0,Left Foot,,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+24,Bukayo Saka,Arsenal,0.03,0.0,Off Target,22.0,Left Foot,,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+31,Kai Havertz,Arsenal,0.12,0.0,Off Target,12.0,Left Foot,Volley,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+34,Mikel Merino,Arsenal,0.02,0.0,Blocked,10.0,Head,,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+35,Gabriel Martinelli,Arsenal,0.05,0.0,Off Target,21.0,Right Foot,,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+43,Mikel Merino,Arsenal,0.38,0.88,Goal,7.0,Head,,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+77,Kai Havertz,Arsenal,0.05,0.0,Off Target,23.0,Left Foot,,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+87,Gabriel Jesus,Arsenal,0.03,0.0,Blocked,4.0,Right Foot,Volley,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+88,Gabriel Jesus,Arsenal,0.07,0.16,Saved,20.0,Right Foot,Volley,2024-10-27,https://fbref.com/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,68aa1099
+2,Leandro Trossard,Arsenal,0.03,0.0,Off Target,24.0,Left Foot,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+6,Mikel Merino,Arsenal,0.01,0.0,Off Target,31.0,Left Foot,Volley,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+11,Bukayo Saka,Arsenal,0.04,0.0,Off Target,17.0,Left Foot,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+18,Bukayo Saka,Arsenal,0.16,0.0,Off Target,4.0,Head,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+27,Mikel Merino,Arsenal,0.37,0.0,Blocked,4.0,Left Foot,Volley,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+27,Jurriën Timber,Arsenal,0.04,0.0,Blocked,16.0,Right Foot,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+64,Declan Rice,Arsenal,0.05,0.0,Blocked,14.0,Right Foot,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+68,Leandro Trossard,Arsenal,0.05,0.0,Blocked,9.0,Right Foot,Volley,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+91,Ethan Nwaneri,Arsenal,0.03,0.0,Off Target,24.0,Left Foot,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+93,Declan Rice,Arsenal,0.3,0.0,Off Target,6.0,Head,,2024-11-02,https://fbref.com/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,cc960c22
+16,Kai Havertz,Arsenal,0.02,0.0,Off Target,16.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+19,Gabriel Martinelli,Arsenal,0.03,0.0,Blocked,25.0,Right Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+27,Bukayo Saka,Arsenal,0.03,0.08,Saved,14.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+28,Mikel Merino,Arsenal,0.2,0.44,Saved,7.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+30,Leandro Trossard,Arsenal,0.02,0.0,Off Target,32.0,Right Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+44,William Saliba,Arsenal,0.07,0.0,Blocked,5.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+45,Gabriel Magalhães,Arsenal,0.21,0.0,Blocked,4.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+46,Gabriel Martinelli,Arsenal,0.03,0.0,Off Target,15.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+48,William Saliba,Arsenal,0.26,0.0,Off Target,4.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+57,Bukayo Saka,Arsenal,0.21,0.55,Saved,4.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+59,Kai Havertz,Arsenal,0.03,0.58,Saved,17.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+60,Gabriel Magalhães,Arsenal,0.04,0.0,Blocked,17.0,Right Foot,"Deflected, Volley",2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+61,Gabriel Jesus,Arsenal,0.06,0.0,Blocked,11.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+75,Kai Havertz,Arsenal,0.22,0.0,Blocked,11.0,Left Foot,Volley,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+81,Gabriel Jesus,Arsenal,0.05,0.0,Blocked,12.0,Head,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+87,Bukayo Saka,Arsenal,0.02,0.0,Blocked,21.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+87,Kai Havertz,Arsenal,0.06,0.0,Off Target,18.0,Right Foot,Volley,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+89,Gabriel Magalhães,Arsenal,0.08,0.0,Blocked,20.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+96,Ethan Nwaneri,Arsenal,0.02,0.0,Off Target,26.0,Left Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+98,Gabriel Jesus,Arsenal,0.13,0.0,Blocked,13.0,Right Foot,,2024-11-06,https://fbref.com/en/matches/16d01a57/Internazionale-Arsenal-November-6-2024-Champions-League,16d01a57
+10,Thomas Partey,Arsenal,0.24,0.0,Off Target,6.0,Right Foot,Volley,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+10,Ben White,Arsenal,0.02,0.0,Blocked,28.0,Right Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+14,Bukayo Saka,Arsenal,0.01,0.0,Blocked,19.0,Left Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+27,Bukayo Saka,Arsenal,0.02,0.0,Blocked,25.0,Left Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+27,Gabriel Martinelli,Arsenal,0.29,0.26,Saved,12.0,Left Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+51,Gabriel Martinelli,Arsenal,0.02,0.0,Blocked,22.0,Right Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+60,Gabriel Martinelli,Arsenal,0.23,0.31,Goal,6.0,Right Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+66,Martin Ødegaard,Arsenal,0.05,0.0,Blocked,12.0,Left Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+66,Jurriën Timber,Arsenal,0.04,0.0,Off Target,27.0,Right Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+74,Mikel Merino,Arsenal,0.1,0.22,Saved,10.0,Head,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+79,Leandro Trossard,Arsenal,0.03,0.0,Blocked,15.0,Right Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+87,Martin Ødegaard,Arsenal,0.06,0.0,Off Target,22.0,Left Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+96,Leandro Trossard,Arsenal,0.44,0.0,Off Target,8.0,Right Foot,,2024-11-10,https://fbref.com/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,2874d56e
+2,Bukayo Saka,Arsenal,0.03,0.0,Off Target,18.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+2,Leandro Trossard,Arsenal,0.13,0.15,Saved,9.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+14,Martin Ødegaard,Arsenal,0.14,0.0,Blocked,17.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+15,Bukayo Saka,Arsenal,0.08,0.43,Goal,15.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+22,Martin Ødegaard,Arsenal,0.12,0.0,Blocked,13.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+26,Gabriel Jesus,Arsenal,0.15,0.0,Off Target,18.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+40,Bukayo Saka,Arsenal,0.08,0.0,Blocked,14.0,Left Foot,Deflected,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+40,Leandro Trossard,Arsenal,0.03,0.25,Saved,18.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+42,Bukayo Saka,Arsenal,0.05,0.15,Saved,14.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+45,Bukayo Saka,Arsenal,0.03,0.0,Blocked,16.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+46,Jurriën Timber,Arsenal,0.05,0.0,Off Target,18.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+52,Thomas Partey,Arsenal,0.04,0.28,Goal,24.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+66,Mikel Merino,Arsenal,0.04,0.0,Off Target,22.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+78,Bukayo Saka,Arsenal,0.02,0.0,Blocked,24.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+80,Leandro Trossard,Arsenal,0.02,0.0,Blocked,27.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+82,Thomas Partey,Arsenal,0.02,0.0,Off Target,26.0,Right Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+84,Ethan Nwaneri,Arsenal,0.03,0.0,Off Target,21.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+86,Ethan Nwaneri,Arsenal,0.08,0.17,Goal,12.0,Left Foot,,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+92,Gabriel Magalhães,Arsenal,0.07,0.0,Off Target,10.0,Left Foot,Volley,2024-11-23,https://fbref.com/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,0cb4129b
+2,Riccardo Calafiori,Arsenal,0.02,0.0,Off Target,27.0,Right Foot,Volley,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+7,Gabriel Martinelli,Arsenal,0.82,0.99,Goal,5.0,Right Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+21,Thomas Partey,Arsenal,0.01,0.01,Saved,30.0,Right Foot,Volley,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+22,Kai Havertz,Arsenal,1.0,0.99,Goal,2.0,Left Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+30,Bukayo Saka,Arsenal,0.08,0.07,Saved,17.0,Left Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+36,Kai Havertz,Arsenal,0.08,0.0,Blocked,9.0,Head,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+37,Bukayo Saka,Arsenal,0.04,0.0,Blocked,15.0,Left Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+37,Declan Rice,Arsenal,0.05,0.0,Off Target,11.0,Right Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+46,Gabriel Magalhães,Arsenal,0.35,0.9,Goal,4.0,Head,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+65,Bukayo Saka (pen),Arsenal,0.79,0.8,Goal,13.0,Left Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+82,Mikel Merino,Arsenal,0.07,0.05,Saved,22.0,Left Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+82,Leandro Trossard,Arsenal,0.68,0.95,Goal,6.0,Head,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+90,Ethan Nwaneri,Arsenal,0.05,0.11,Saved,14.0,Left Foot,,2024-11-26,https://fbref.com/en/matches/160ca071/Sporting-CP-Arsenal-November-26-2024-Champions-League,160ca071
+10,Gabriel Magalhães,Arsenal,0.2,0.64,Goal,5.0,Head,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+22,Bukayo Saka,Arsenal,0.04,0.0,Off Target,16.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+25,Jurriën Timber,Arsenal,0.05,0.08,Saved,5.0,Head,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+27,Leandro Trossard,Arsenal,0.68,0.97,Goal,4.0,Right Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+29,Jurriën Timber,Arsenal,0.05,0.0,Blocked,17.0,Right Foot,Volley,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+30,Leandro Trossard,Arsenal,0.01,0.0,Blocked,26.0,Right Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+34,Martin Ødegaard (pen),Arsenal,0.79,0.85,Goal,13.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+36,Kai Havertz,Arsenal,0.58,0.37,Goal,17.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+47,Kai Havertz,Arsenal,0.08,0.0,Blocked,10.0,Head,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+50,Bukayo Saka (pen),Arsenal,0.79,0.77,Goal,13.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+49,Riccardo Calafiori,Arsenal,0.05,0.0,Off Target,5.0,Head,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+59,Martin Ødegaard,Arsenal,0.03,0.07,Saved,24.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+59,Bukayo Saka,Arsenal,0.03,0.0,Blocked,14.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+85,Raheem Sterling,Arsenal,0.09,0.0,Off Target,13.0,Left Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+89,Raheem Sterling,Arsenal,0.08,0.0,Off Target,24.0,Right Foot,Free kick,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+94,Gabriel Jesus,Arsenal,0.05,0.0,Off Target,10.0,Right Foot,,2024-11-30,https://fbref.com/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,f78bee62
+22,Thomas Partey,Arsenal,0.04,0.0,Off Target,8.0,Head,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+25,Oleksandr Zinchenko,Arsenal,0.06,0.0,Blocked,11.0,Left Foot,Volley,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+25,Gabriel Martinelli,Arsenal,0.13,0.0,Off Target,11.0,Left Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+48,Gabriel Martinelli,Arsenal,0.04,0.44,Saved,16.0,Right Foot,Deflected,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+49,Declan Rice,Arsenal,0.06,0.0,Blocked,16.0,Right Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+54,Jurriën Timber,Arsenal,0.16,0.35,Goal,3.0,Head,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+58,Bukayo Saka,Arsenal,0.13,0.39,Saved,11.0,Left Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+72,Declan Rice,Arsenal,0.02,0.0,Blocked,31.0,Right Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+73,William Saliba,Arsenal,0.69,0.97,Goal,1.0,Other,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+75,Kai Havertz,Arsenal,0.25,0.35,Saved,6.0,Left Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+77,Mikel Merino,Arsenal,0.07,0.0,Off Target,8.0,Head,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+83,Martin Ødegaard,Arsenal,0.12,0.0,Blocked,16.0,Left Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+89,Leandro Trossard,Arsenal,0.05,0.0,Blocked,12.0,Left Foot,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+90,Thomas Partey,Arsenal,0.33,0.36,Saved,3.0,Head,,2024-12-04,https://fbref.com/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,9938aa27
+3,William Saliba,Arsenal,0.33,0.0,Off Target,3.0,Head,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+13,Declan Rice,Arsenal,0.01,0.0,Off Target,25.0,Right Foot,Volley,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+24,Declan Rice,Arsenal,0.07,0.0,Off Target,17.0,Left Foot,Volley,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+25,Bukayo Saka,Arsenal,0.07,0.0,Off Target,9.0,Right Foot,Volley,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+37,Bukayo Saka,Arsenal,0.02,0.04,Saved,13.0,Right Foot,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+52,Kai Havertz,Arsenal,0.23,0.0,Off Target,5.0,Head,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+52,William Saliba,Arsenal,0.86,0.98,Goal,3.0,Left Foot,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+57,Leandro Trossard,Arsenal,0.02,0.03,Saved,15.0,Right Foot,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+59,Kai Havertz,Arsenal,0.04,0.0,Off Target,11.0,Other,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+62,Kai Havertz,Arsenal,0.07,0.0,Off Target,15.0,Left Foot,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+70,Thomas Partey,Arsenal,0.25,0.0,Off Target,6.0,Head,,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+78,Declan Rice,Arsenal,0.03,0.19,Saved,24.0,Right Foot,Deflected,2024-12-08,https://fbref.com/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,038dfa98
+4,Gabriel Jesus,Arsenal,0.05,0.09,Saved,12.0,Right Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+20,Martin Ødegaard,Arsenal,0.08,0.0,Off Target,18.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+24,Martin Ødegaard,Arsenal,0.03,0.0,Off Target,14.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+25,Gabriel Jesus,Arsenal,0.67,0.32,Saved,11.0,Right Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+28,Gabriel Jesus,Arsenal,0.08,0.17,Saved,14.0,Right Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+34,Bukayo Saka,Arsenal,0.25,0.65,Goal,3.0,Right Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+38,Gabriel Martinelli,Arsenal,0.1,0.0,Off Target,13.0,Right Foot,Volley,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+39,Martin Ødegaard,Arsenal,0.35,0.0,Off Target,17.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+74,Leandro Trossard,Arsenal,0.03,0.0,Off Target,31.0,Right Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+78,Bukayo Saka,Arsenal,0.09,0.43,Goal,9.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+84,Leandro Trossard,Arsenal,0.08,0.0,Off Target,18.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+87,Ethan Nwaneri,Arsenal,0.03,0.01,Saved,27.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+88,Mikel Merino,Arsenal,0.02,0.0,Blocked,16.0,Right Foot,Volley,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+88,Bukayo Saka,Arsenal,0.08,0.0,Blocked,11.0,Right Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+88,Kai Havertz,Arsenal,0.21,0.74,Goal,3.0,Left Foot,Deflected,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+91,Ethan Nwaneri,Arsenal,0.13,0.26,Saved,9.0,Left Foot,,2024-12-11,https://fbref.com/en/matches/6aa52408/Arsenal-Monaco-December-11-2024-Champions-League,6aa52408
+8,Gabriel Martinelli,Arsenal,0.04,0.0,Blocked,11.0,Left Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+10,Martin Ødegaard,Arsenal,0.2,0.0,Off Target,14.0,Left Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+12,Martin Ødegaard,Arsenal,0.07,0.0,Off Target,22.0,Left Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+17,Bukayo Saka,Arsenal,0.1,0.0,Blocked,14.0,Left Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+29,Martin Ødegaard,Arsenal,0.15,0.6,Saved,11.0,Left Foot,Deflected,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+43,Gabriel Martinelli,Arsenal,0.08,0.11,Saved,11.0,Left Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+43,Declan Rice,Arsenal,0.03,0.0,Blocked,29.0,Right Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+46,Bukayo Saka,Arsenal,0.13,0.37,Saved,12.0,Left Foot,Volley,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+47,Mikel Merino,Arsenal,0.11,0.35,Saved,5.0,Head,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+58,Bukayo Saka,Arsenal,0.11,0.0,Blocked,12.0,Left Foot,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+64,Kai Havertz,Arsenal,0.06,0.37,Saved,10.0,Head,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+75,Gabriel Jesus,Arsenal,0.05,0.0,Off Target,7.0,Other,,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+85,Gabriel Jesus,Arsenal,0.09,0.0,Blocked,11.0,Right Foot,Volley,2024-12-14,https://fbref.com/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,32aa9e8e
+6,Gabriel Jesus,Arsenal,0.08,0.43,Goal,9.0,Right Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+14,Gabriel Magalhães,Arsenal,0.19,0.0,Blocked,5.0,Head,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+15,Gabriel Jesus,Arsenal,0.05,0.58,Goal,16.0,Right Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+37,Gabriel Magalhães,Arsenal,0.2,0.0,Woodwork,5.0,Head,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+38,Gabriel Jesus,Arsenal,0.11,0.0,Woodwork,11.0,Head,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+38,Kai Havertz,Arsenal,0.85,0.99,Goal,3.0,Right Foot,Volley,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+48,Martin Ødegaard,Arsenal,0.09,0.0,Blocked,17.0,Left Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+57,Kai Havertz,Arsenal,0.03,0.0,Off Target,12.0,Head,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+57,Leandro Trossard,Arsenal,0.02,0.0,Blocked,24.0,Right Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+59,Gabriel Jesus,Arsenal,0.47,0.57,Saved,10.0,Left Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+60,Declan Rice,Arsenal,0.1,0.0,Blocked,16.0,Left Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+60,Gabriel Martinelli,Arsenal,0.66,0.92,Goal,4.0,Right Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+73,Gabriel Jesus,Arsenal,0.09,0.0,Blocked,9.0,Head,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+84,Declan Rice,Arsenal,0.06,0.18,Goal,20.0,Right Foot,,2024-12-21,https://fbref.com/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,5e7aa707
+14,Leandro Trossard,Arsenal,0.04,0.0,Blocked,15.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+19,Jurriën Timber,Arsenal,0.04,0.02,Saved,30.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+23,Kai Havertz,Arsenal,0.76,0.98,Goal,4.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+30,Declan Rice,Arsenal,0.03,0.0,Off Target,27.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+48,Martin Ødegaard,Arsenal,0.03,0.0,Blocked,16.0,Left Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+49,Leandro Trossard,Arsenal,0.11,0.0,Blocked,12.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+53,Martin Ødegaard,Arsenal,0.11,0.0,Blocked,22.0,Left Foot,Free kick,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+63,Gabriel Magalhães,Arsenal,0.24,0.0,Off Target,3.0,Head,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+73,Martin Ødegaard,Arsenal,0.07,0.2,Saved,12.0,Left Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+74,Declan Rice,Arsenal,0.08,0.0,Blocked,16.0,Right Foot,Volley,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+75,Kai Havertz,Arsenal,0.27,0.09,Saved,8.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+77,Mikel Merino,Arsenal,0.04,0.03,Saved,17.0,Left Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+77,Martin Ødegaard,Arsenal,0.03,0.0,Off Target,24.0,Right Foot,,2024-12-27,https://fbref.com/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,668dad03
+7,Ethan Nwaneri,Arsenal,0.06,0.0,Blocked,17.0,Left Foot,Volley,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+10,Martin Ødegaard,Arsenal,0.03,0.0,Off Target,28.0,Left Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+12,Riccardo Calafiori,Arsenal,0.02,0.0,Off Target,15.0,Head,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+17,Gabriel Martinelli,Arsenal,0.02,0.0,Blocked,22.0,Right Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+29,Gabriel Martinelli,Arsenal,0.17,0.0,Blocked,12.0,Right Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+29,Thomas Partey,Arsenal,0.04,0.63,Saved,25.0,Right Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+29,Gabriel Jesus,Arsenal,0.47,0.67,Goal,6.0,Head,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+35,Thomas Partey,Arsenal,0.04,0.0,Blocked,18.0,Left Foot,Volley,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+40,Gabriel Martinelli,Arsenal,0.02,0.0,Blocked,12.0,Head,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+50,Gabriel Jesus,Arsenal,0.09,0.0,Blocked,9.0,Right Foot,Volley,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+50,Mikel Merino,Arsenal,0.47,0.98,Goal,3.0,Left Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+53,Gabriel Martinelli,Arsenal,0.17,0.88,Goal,14.0,Right Foot,Volley,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+57,Mikel Merino,Arsenal,0.09,0.0,Off Target,15.0,Right Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+60,Gabriel Jesus,Arsenal,0.23,0.0,Off Target,11.0,Right Foot,,2025-01-01,https://fbref.com/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,7e6892e4
+6,Leandro Trossard,Arsenal,0.02,0.0,Blocked,24.0,Right Foot,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+10,Gabriel Jesus,Arsenal,0.24,0.26,Saved,11.0,Right Foot,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+16,Ethan Nwaneri,Arsenal,0.07,0.05,Goal,13.0,Left Foot,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+39,Leandro Trossard,Arsenal,0.03,0.0,Blocked,22.0,Right Foot,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+40,Gabriel Jesus,Arsenal,0.22,0.0,Off Target,4.0,Head,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+58,Mikel Merino,Arsenal,0.12,0.0,Off Target,9.0,Left Foot,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+79,Declan Rice,Arsenal,0.04,0.05,Saved,26.0,Right Foot,Deflected,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+89,Thomas Partey,Arsenal,0.09,0.0,Off Target,11.0,Head,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+93,Leandro Trossard,Arsenal,0.03,0.0,Off Target,18.0,Right Foot,,2025-01-04,https://fbref.com/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,52186da4
+13,Leandro Trossard,Arsenal,0.13,0.0,Blocked,10.0,Right Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+13,Thomas Partey,Arsenal,0.07,0.0,Blocked,25.0,Right Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+44,Leandro Trossard,Arsenal,0.05,0.08,Goal,18.0,Left Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+48,Kai Havertz,Arsenal,0.05,0.0,Blocked,16.0,Left Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+46,Raheem Sterling,Arsenal,0.07,0.0,Blocked,11.0,Right Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+53,Kai Havertz,Arsenal,0.25,0.0,Off Target,4.0,Head,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+56,Kai Havertz,Arsenal,0.1,0.04,Saved,12.0,Head,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+59,Leandro Trossard,Arsenal,0.1,0.0,Off Target,11.0,Right Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+59,Raheem Sterling,Arsenal,0.06,0.0,Blocked,10.0,Left Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+73,Declan Rice,Arsenal,0.13,0.03,Saved,21.0,Right Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+74,Martin Ødegaard,Arsenal,0.08,0.14,Saved,16.0,Left Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+76,Gabriel Martinelli,Arsenal,0.04,0.0,Blocked,17.0,Right Foot,Volley,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+77,Gabriel Magalhães,Arsenal,0.03,0.0,Off Target,32.0,Left Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+84,Martin Ødegaard,Arsenal,0.3,0.0,Off Target,10.0,Left Foot,,2025-01-15,https://fbref.com/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,ee9ce5e2
+3,Gabriel Martinelli,Arsenal,0.07,0.11,Saved,6.0,Right Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+18,Leandro Trossard,Arsenal,0.03,0.13,Saved,22.0,Right Foot,Deflected,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+28,Kai Havertz,Arsenal,0.03,0.0,Off Target,26.0,Left Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+35,Gabriel Martinelli,Arsenal,0.38,0.71,Goal,5.0,Right Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+39,Leandro Trossard,Arsenal,0.06,0.0,Off Target,13.0,Right Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+40,Mikel Merino,Arsenal,0.07,0.0,Off Target,15.0,Left Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+48,Kai Havertz,Arsenal,0.07,0.0,Off Target,8.0,Head,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+51,Leandro Trossard,Arsenal,0.02,0.0,Blocked,24.0,Right Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+55,Kai Havertz,Arsenal,0.09,0.18,Goal,9.0,Left Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+65,Leandro Trossard,Arsenal,0.01,0.0,Blocked,23.0,Right Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+65,Gabriel Martinelli,Arsenal,0.03,0.0,Off Target,11.0,Right Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+67,Leandro Trossard,Arsenal,0.03,0.0,Off Target,22.0,Left Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+74,Declan Rice,Arsenal,0.02,0.0,Off Target,26.0,Right Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+82,Martin Ødegaard,Arsenal,0.04,0.0,Blocked,13.0,Left Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+87,Mikel Merino,Arsenal,0.03,0.0,Blocked,22.0,Left Foot,Volley,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+91,Mikel Merino,Arsenal,0.07,0.64,Saved,13.0,Left Foot,Deflected,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+91,Raheem Sterling,Arsenal,0.24,0.0,Blocked,10.0,Right Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+91,Leandro Trossard,Arsenal,0.05,0.11,Saved,10.0,Right Foot,,2025-01-18,https://fbref.com/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,1fdaaaba
+2,Declan Rice,Arsenal,0.08,0.32,Goal,12.0,Right Foot,Volley,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+5,Oleksandr Zinchenko,Arsenal,0.06,0.0,Blocked,12.0,Left Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+8,Declan Rice,Arsenal,0.13,0.0,Blocked,10.0,Right Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+9,Gabriel Magalhães,Arsenal,0.17,0.0,Blocked,5.0,Head,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+9,Kai Havertz,Arsenal,0.07,0.0,Off Target,6.0,Right Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+10,Kai Havertz,Arsenal,0.11,0.0,Blocked,6.0,Left Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+14,Gabriel Magalhães,Arsenal,0.12,0.0,Off Target,7.0,Head,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+25,Kai Havertz,Arsenal,0.09,0.0,Off Target,11.0,Head,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+27,Gabriel Magalhães,Arsenal,0.12,0.0,Off Target,5.0,Head,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+28,Oleksandr Zinchenko,Arsenal,0.05,0.0,Blocked,13.0,Right Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+42,Gabriel Martinelli,Arsenal,0.06,0.03,Saved,23.0,Right Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+49,Declan Rice,Arsenal,0.05,0.0,Blocked,23.0,Right Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+66,Kai Havertz,Arsenal,0.34,0.47,Goal,7.0,Head,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+76,Declan Rice,Arsenal,0.34,0.0,Off Target,6.0,Head,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+81,Leandro Trossard,Arsenal,0.01,0.0,Blocked,19.0,Right Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+85,Martin Ødegaard,Arsenal,0.06,0.0,Blocked,22.0,Left Foot,,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+91,Martin Ødegaard,Arsenal,0.62,0.96,Goal,6.0,Left Foot,Volley,2025-01-22,https://fbref.com/en/matches/99da618c/Arsenal-Dinamo-Zagreb-January-22-2025-Champions-League,99da618c
+19,Kai Havertz,Arsenal,0.08,0.0,Off Target,9.0,Head,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+24,Kai Havertz,Arsenal,0.17,0.05,Saved,10.0,Head,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+26,Thomas Partey,Arsenal,0.03,0.0,Off Target,26.0,Right Foot,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+40,Ethan Nwaneri,Arsenal,0.17,0.0,Blocked,22.0,Left Foot,Free kick,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+40,Ethan Nwaneri,Arsenal,0.07,0.0,Blocked,21.0,Left Foot,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+50,Gabriel Magalhães,Arsenal,0.06,0.0,Blocked,8.0,Left Foot,Volley,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+53,Declan Rice,Arsenal,0.04,0.06,Saved,18.0,Right Foot,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+62,Kai Havertz,Arsenal,0.27,0.0,Off Target,7.0,Head,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+74,Riccardo Calafiori,Arsenal,0.1,0.61,Goal,13.0,Left Foot,,2025-01-25,https://fbref.com/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,0b39252e
+4,Raheem Sterling,Arsenal,0.02,0.0,Off Target,17.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+13,Martin Ødegaard,Arsenal,0.05,0.0,Off Target,22.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+38,Jorginho (pen),Arsenal,0.79,0.77,Goal,13.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+41,Ethan Nwaneri,Arsenal,0.06,0.0,Blocked,20.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+42,Ethan Nwaneri,Arsenal,0.03,0.36,Goal,21.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+44,Leandro Trossard,Arsenal,0.03,0.0,Woodwork,13.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+47,Gabriel Magalhães,Arsenal,0.03,0.0,Off Target,6.0,Right Foot,Volley,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+54,Leandro Trossard,Arsenal,0.03,0.0,Blocked,18.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+56,Ethan Nwaneri,Arsenal,0.07,0.0,Off Target,20.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+61,Riccardo Calafiori,Arsenal,0.03,0.0,Off Target,26.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+73,Raheem Sterling,Arsenal,0.03,0.02,Saved,23.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+83,Kai Havertz,Arsenal,0.02,0.05,Saved,18.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+89,Gabriel Martinelli,Arsenal,0.04,0.0,Blocked,15.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+93,Raheem Sterling (pen),Arsenal,0.79,0.85,Saved,13.0,Right Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+94,Mikel Merino,Arsenal,0.02,0.08,Saved,7.0,Head,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+94,Mikel Merino,Arsenal,0.07,0.0,Blocked,18.0,Left Foot,,2025-01-29,https://fbref.com/en/matches/d7d20b67/Girona-Arsenal-January-29-2025-Champions-League,d7d20b67
+1,Kai Havertz,Arsenal,0.02,0.05,Saved,25.0,Left Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+2,Martin Ødegaard,Arsenal,0.12,0.86,Goal,12.0,Left Foot,Deflected,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+26,Kai Havertz,Arsenal,0.3,0.0,Off Target,14.0,Left Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+28,Martin Ødegaard,Arsenal,0.01,0.0,Blocked,21.0,Right Foot,Volley,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+57,Thomas Partey,Arsenal,0.05,0.54,Goal,22.0,Right Foot,Deflected,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+60,Kai Havertz,Arsenal,0.04,0.0,Blocked,18.0,Left Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+62,Myles Lewis-Skelly,Arsenal,0.04,0.19,Goal,14.0,Right Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+68,Gabriel Martinelli,Arsenal,0.17,0.29,Saved,14.0,Right Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+76,Kai Havertz,Arsenal,0.13,0.71,Goal,10.0,Left Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+81,Gabriel Magalhães,Arsenal,0.05,0.0,Blocked,15.0,Left Foot,Volley,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+89,Jurriën Timber,Arsenal,0.04,0.0,Off Target,4.0,Head,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+93,Ethan Nwaneri,Arsenal,0.02,0.37,Goal,22.0,Left Foot,,2025-02-02,https://fbref.com/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,2906e921
+9,Leandro Trossard,Arsenal,0.22,0.31,Saved,6.0,Right Foot,Volley,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+13,Thomas Partey,Arsenal,0.04,0.0,Off Target,24.0,Right Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+16,Declan Rice,Arsenal,0.12,0.0,Off Target,8.0,Head,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+35,Raheem Sterling,Arsenal,0.02,0.0,Blocked,27.0,Right Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+58,Martin Ødegaard,Arsenal,0.05,0.0,Blocked,22.0,Left Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+61,Ethan Nwaneri,Arsenal,0.06,0.0,Woodwork,23.0,Left Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+66,Ethan Nwaneri,Arsenal,0.03,0.0,Blocked,27.0,Left Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+76,Ethan Nwaneri,Arsenal,0.02,0.22,Saved,17.0,Right Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+81,Mikel Merino,Arsenal,0.28,0.59,Goal,8.0,Head,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+87,Mikel Merino,Arsenal,0.47,0.82,Goal,8.0,Left Foot,,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+92,Ethan Nwaneri,Arsenal,0.06,0.03,Saved,19.0,Left Foot,Volley,2025-02-15,https://fbref.com/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,af8aa0dd
+12,Martin Ødegaard,Arsenal,0.03,0.0,Blocked,21.0,Left Foot,Volley,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+14,Mikel Merino,Arsenal,0.23,0.0,Off Target,4.0,Left Foot,Volley,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+22,Riccardo Calafiori,Arsenal,0.03,0.03,Saved,22.0,Left Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+24,Ethan Nwaneri,Arsenal,0.01,0.0,Blocked,19.0,Left Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+24,Leandro Trossard,Arsenal,0.03,0.0,Off Target,16.0,Right Foot,Volley,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+35,Riccardo Calafiori,Arsenal,0.06,0.0,Blocked,15.0,Left Foot,Volley,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+39,Declan Rice,Arsenal,0.02,0.0,Blocked,16.0,Right Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+39,Martin Ødegaard,Arsenal,0.03,0.0,Blocked,26.0,Left Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+41,Martin Ødegaard,Arsenal,0.02,0.0,Off Target,24.0,Left Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+54,Leandro Trossard,Arsenal,0.03,0.0,Blocked,15.0,Right Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+59,Mikel Merino,Arsenal,0.06,0.0,Off Target,8.0,Head,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+62,Oleksandr Zinchenko,Arsenal,0.06,0.0,Blocked,16.0,Left Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+62,Oleksandr Zinchenko,Arsenal,0.04,0.0,Blocked,14.0,Right Foot,Volley,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+63,Leandro Trossard,Arsenal,0.04,0.11,Saved,15.0,Right Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+63,Leandro Trossard,Arsenal,0.14,0.0,Off Target,6.0,Right Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+85,Raheem Sterling,Arsenal,0.14,0.0,Blocked,23.0,Right Foot,Free kick,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+85,Gabriel Magalhães,Arsenal,0.07,0.0,Off Target,14.0,Left Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+90,Leandro Trossard,Arsenal,0.06,0.0,Off Target,23.0,Right Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+93,Gabriel Magalhães,Arsenal,0.07,0.0,Blocked,10.0,Head,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+96,Ben White,Arsenal,0.06,0.0,Off Target,15.0,Right Foot,,2025-02-22,https://fbref.com/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,e511e91c
+10,Declan Rice,Arsenal,0.05,0.0,Blocked,14.0,Right Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+11,Ethan Nwaneri,Arsenal,0.01,0.0,Blocked,24.0,Left Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+16,Declan Rice,Arsenal,0.06,0.0,Blocked,22.0,Right Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+24,Riccardo Calafiori,Arsenal,0.1,0.0,Woodwork,14.0,Right Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+26,Leandro Trossard,Arsenal,0.02,0.0,Blocked,22.0,Left Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+41,Ethan Nwaneri,Arsenal,0.04,0.0,Blocked,9.0,Left Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+43,William Saliba,Arsenal,0.19,0.0,Blocked,6.0,Left Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+50,Leandro Trossard,Arsenal,0.02,0.0,Blocked,15.0,Right Foot,Deflected,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+51,Mikel Merino,Arsenal,0.09,0.39,Saved,5.0,Head,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+55,Kieran Tierney,Arsenal,0.21,0.0,Off Target,3.0,Head,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+58,Ethan Nwaneri,Arsenal,0.02,0.0,Blocked,22.0,Left Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+79,Mikel Merino,Arsenal,0.13,0.0,Blocked,3.0,Head,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+86,Thomas Partey,Arsenal,0.06,0.0,Off Target,24.0,Right Foot,,2025-02-26,https://fbref.com/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,d4387bc1
+18,Jurriën Timber,Arsenal,0.17,0.74,Goal,4.0,Head,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+21,Ethan Nwaneri,Arsenal,0.07,0.49,Goal,9.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+31,Jurriën Timber,Arsenal,0.03,0.0,Blocked,12.0,Right Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+31,Mikel Merino,Arsenal,0.09,0.44,Goal,10.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+44,Declan Rice,Arsenal,0.04,0.0,Off Target,17.0,Right Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+47,Martin Ødegaard,Arsenal,0.3,0.37,Goal,10.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+48,Leandro Trossard,Arsenal,0.17,0.21,Goal,3.0,Right Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+55,Ethan Nwaneri,Arsenal,0.17,0.41,Saved,13.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+55,Leandro Trossard,Arsenal,0.03,0.0,Blocked,28.0,Right Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+56,Ethan Nwaneri,Arsenal,0.08,0.0,Off Target,20.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+60,Ethan Nwaneri,Arsenal,0.04,0.0,Blocked,22.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+61,Gabriel Magalhães,Arsenal,0.18,0.0,Off Target,4.0,Head,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+73,Martin Ødegaard,Arsenal,0.09,0.04,Goal,21.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+81,Oleksandr Zinchenko,Arsenal,0.09,0.0,Off Target,14.0,Left Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+85,Riccardo Calafiori,Arsenal,0.37,0.77,Goal,12.0,Right Foot,,2025-03-04,https://fbref.com/en/matches/f7748494/PSV-Eindhoven-Arsenal-March-4-2025-Champions-League,f7748494
+10,Mikel Merino,Arsenal,0.1,0.0,Off Target,17.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+20,Martin Ødegaard,Arsenal,0.03,0.15,Saved,28.0,Left Foot,Deflected,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+27,Thomas Partey,Arsenal,0.02,0.0,Blocked,31.0,Right Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+32,Leandro Trossard,Arsenal,0.03,0.0,Off Target,21.0,Right Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+34,Leandro Trossard,Arsenal,0.35,0.27,Saved,8.0,Left Foot,Volley,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+35,Martin Ødegaard,Arsenal,0.08,0.0,Blocked,25.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+46,Leandro Trossard,Arsenal,0.02,0.0,Blocked,30.0,Right Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+51,Martin Ødegaard,Arsenal,0.03,0.25,Saved,24.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+52,Declan Rice,Arsenal,0.05,0.0,Off Target,19.0,Right Foot,Volley,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+66,Leandro Trossard,Arsenal,0.04,0.0,Off Target,22.0,Right Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+71,Martin Ødegaard,Arsenal,0.13,0.0,Blocked,25.0,Left Foot,Free kick,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+74,Declan Rice,Arsenal,0.07,0.57,Goal,16.0,Right Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+82,Gabriel Martinelli,Arsenal,0.06,0.18,Saved,15.0,Right Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+85,Leandro Trossard,Arsenal,0.17,0.0,Off Target,16.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+92,Martin Ødegaard,Arsenal,0.15,0.36,Saved,17.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+92,Gabriel Martinelli,Arsenal,0.3,0.0,Off Target,5.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+95,Leandro Trossard,Arsenal,0.02,0.0,Blocked,13.0,Left Foot,,2025-03-09,https://fbref.com/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,8efec987
+6,Oleksandr Zinchenko,Arsenal,0.04,0.22,Goal,22.0,Left Foot,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+29,Raheem Sterling,Arsenal,0.05,0.0,Blocked,20.0,Left Foot,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+30,Myles Lewis-Skelly,Arsenal,0.1,0.16,Saved,11.0,Left Foot,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+37,Declan Rice,Arsenal,0.18,0.14,Goal,10.0,Head,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+43,Raheem Sterling,Arsenal,0.44,0.28,Saved,17.0,Left Foot,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+50,Ben White,Arsenal,0.07,0.06,Saved,20.0,Left Foot,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+68,Riccardo Calafiori,Arsenal,0.13,0.16,Saved,14.0,Left Foot,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+81,Gabriel Magalhães,Arsenal,0.04,0.0,Off Target,6.0,Head,,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+91,Raheem Sterling,Arsenal,0.21,0.82,Saved,10.0,Left Foot,Volley,2025-03-12,https://fbref.com/en/matches/c27417c6/Arsenal-PSV-Eindhoven-March-12-2025-Champions-League,c27417c6
+3,Leandro Trossard,Arsenal,0.07,0.0,Off Target,17.0,Right Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+9,Gabriel Martinelli,Arsenal,0.02,0.02,Saved,16.0,Right Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+12,Declan Rice,Arsenal,0.07,0.0,Off Target,15.0,Right Foot,Volley,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+13,Declan Rice,Arsenal,0.02,0.0,Off Target,31.0,Right Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+18,Leandro Trossard,Arsenal,0.13,0.0,Off Target,14.0,Right Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+20,Mikel Merino,Arsenal,0.05,0.44,Goal,6.0,Head,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+34,Gabriel Martinelli,Arsenal,0.03,0.0,Off Target,17.0,Right Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+60,Mikel Merino,Arsenal,0.12,0.18,Saved,10.0,Left Foot,Volley,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+62,Leandro Trossard,Arsenal,0.02,0.0,Blocked,21.0,Right Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+64,Martin Ødegaard,Arsenal,0.09,0.04,Saved,16.0,Left Foot,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+73,Declan Rice,Arsenal,0.07,0.0,Blocked,25.0,Right Foot,Free kick,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+73,Gabriel Martinelli,Arsenal,0.03,0.0,Off Target,7.0,Head,,2025-03-16,https://fbref.com/en/matches/22de525d/North-West-London-Derby-Arsenal-Chelsea-March-16-2025-Premier-League,22de525d
+6,Declan Rice,Arsenal,0.16,0.0,Blocked,11.0,Right Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+6,Thomas Partey,Arsenal,0.09,0.0,Off Target,20.0,Right Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+19,Jakub Kiwior,Arsenal,0.06,0.0,Blocked,18.0,Left Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+21,Ethan Nwaneri,Arsenal,0.08,0.05,Saved,13.0,Left Foot,Volley,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+27,Ethan Nwaneri,Arsenal,0.06,0.0,Blocked,8.0,Head,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+37,Mikel Merino,Arsenal,0.04,0.51,Goal,12.0,Right Foot,Deflected,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+43,Martin Ødegaard,Arsenal,0.17,0.0,Blocked,12.0,Left Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+51,Martin Ødegaard,Arsenal,0.11,0.0,Off Target,10.0,Left Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+54,Jurriën Timber,Arsenal,0.28,0.29,Saved,9.0,Right Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+58,William Saliba,Arsenal,0.08,0.0,Off Target,9.0,Head,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+60,Gabriel Martinelli,Arsenal,0.02,0.0,Blocked,8.0,Head,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+61,Mikel Merino,Arsenal,0.03,0.0,Blocked,10.0,Left Foot,"Deflected, Volley",2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+63,Gabriel Martinelli,Arsenal,0.06,0.0,Off Target,11.0,Head,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+71,Declan Rice,Arsenal,0.06,0.0,Blocked,22.0,Left Foot,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+73,Gabriel Martinelli,Arsenal,0.25,0.0,Off Target,8.0,Right Foot,Volley,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+73,Bukayo Saka,Arsenal,0.77,0.98,Goal,4.0,Head,,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+93,Declan Rice,Arsenal,0.06,0.0,Off Target,17.0,Right Foot,Volley,2025-04-01,https://fbref.com/en/matches/777d595c/Arsenal-Fulham-April-1-2025-Premier-League,777d595c
+2,Raheem Sterling,Arsenal,0.28,0.0,Blocked,12.0,Right Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+12,Mikel Merino,Arsenal,0.08,0.0,Blocked,8.0,Head,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+12,Ben White,Arsenal,0.19,0.0,Blocked,5.0,Right Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+34,Leandro Trossard,Arsenal,0.11,0.2,Goal,16.0,Left Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+48,Leandro Trossard,Arsenal,0.17,0.28,Saved,4.0,Right Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+48,Declan Rice,Arsenal,0.17,0.0,Blocked,16.0,Left Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+53,Bukayo Saka,Arsenal,0.07,0.0,Blocked,22.0,Left Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+54,Leandro Trossard,Arsenal,0.04,0.0,Off Target,13.0,Left Foot,Volley,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+59,Bukayo Saka,Arsenal,0.07,0.0,Blocked,26.0,Left Foot,Free kick,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+64,Declan Rice,Arsenal,0.11,0.14,Saved,22.0,Right Foot,Free kick,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+83,Martin Ødegaard,Arsenal,0.23,0.0,Off Target,10.0,Left Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+84,Gabriel Martinelli,Arsenal,0.04,0.04,Saved,16.0,Right Foot,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+85,Jurriën Timber,Arsenal,0.2,0.0,Blocked,5.0,Head,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+89,Mikel Merino,Arsenal,0.07,0.0,Off Target,10.0,Head,,2025-04-05,https://fbref.com/en/matches/8a72e3dc/Everton-Arsenal-April-5-2025-Premier-League,8a72e3dc
+7,Thomas Partey,Arsenal,0.38,0.0,Blocked,3.0,Head,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+13,Declan Rice,Arsenal,0.27,0.0,Blocked,5.0,Left Foot,Volley,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+13,Thomas Partey,Arsenal,0.09,0.18,Saved,21.0,Right Foot,Deflected,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+44,Declan Rice,Arsenal,0.12,0.19,Saved,11.0,Head,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+44,Gabriel Martinelli,Arsenal,0.09,0.25,Saved,10.0,Left Foot,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+58,Declan Rice,Arsenal,0.04,0.18,Goal,31.0,Right Foot,Free kick,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+67,Gabriel Martinelli,Arsenal,0.12,0.16,Saved,11.0,Left Foot,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+67,Mikel Merino,Arsenal,0.2,0.0,Blocked,11.0,Left Foot,Volley,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+67,Mikel Merino,Arsenal,0.2,0.57,Saved,10.0,Left Foot,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+68,Declan Rice,Arsenal,0.02,0.0,Blocked,15.0,Left Foot,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+70,Declan Rice,Arsenal,0.06,0.71,Goal,27.0,Right Foot,Free kick,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+75,Mikel Merino,Arsenal,0.08,0.51,Goal,18.0,Left Foot,,2025-04-08,https://fbref.com/en/matches/bbf76516/Arsenal-Real-Madrid-April-8-2025-Champions-League,bbf76516
+9,Ethan Nwaneri,Arsenal,0.03,0.0,Blocked,17.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+23,Gabriel Martinelli,Arsenal,0.02,0.0,Blocked,17.0,Right Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+33,Oleksandr Zinchenko,Arsenal,0.02,0.0,Saved off Target,20.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+35,Gabriel Martinelli,Arsenal,0.21,0.0,Blocked,13.0,Right Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+41,Declan Rice,Arsenal,0.03,0.02,Saved,14.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+42,Leandro Trossard,Arsenal,0.03,0.0,Off Target,9.0,Head,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+44,Leandro Trossard,Arsenal,0.09,0.09,Saved,25.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+47,Leandro Trossard,Arsenal,0.02,0.0,Blocked,30.0,Right Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+61,Thomas Partey,Arsenal,0.26,0.31,Goal,12.0,Right Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+77,Jorginho,Arsenal,0.02,0.0,Off Target,24.0,Right Foot,Volley,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+80,Bukayo Saka,Arsenal,0.1,0.0,Blocked,21.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+88,Mikel Merino,Arsenal,0.05,0.0,Off Target,12.0,Head,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+93,Jakub Kiwior,Arsenal,0.07,0.0,Blocked,23.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+96,Bukayo Saka,Arsenal,0.03,0.0,Off Target,22.0,Left Foot,,2025-04-12,https://fbref.com/en/matches/471d2141/Arsenal-Brentford-April-12-2025-Premier-League,471d2141
+6,Bukayo Saka,Arsenal,0.01,0.0,Off Target,19.0,Right Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+8,Bukayo Saka,Arsenal,0.04,0.14,Saved,22.0,Left Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+13,Bukayo Saka (pen),Arsenal,0.79,0.6,Saved,13.0,Left Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+35,Jurriën Timber,Arsenal,0.04,0.0,Off Target,16.0,Right Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+50,Gabriel Martinelli,Arsenal,0.04,0.09,Saved,12.0,Left Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+51,Mikel Merino,Arsenal,0.02,0.0,Off Target,14.0,Head,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+65,Bukayo Saka,Arsenal,0.23,0.25,Goal,9.0,Left Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+71,Declan Rice,Arsenal,0.06,0.0,Blocked,18.0,Left Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+78,Thomas Partey,Arsenal,0.04,0.0,Blocked,19.0,Right Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+81,Martin Ødegaard,Arsenal,0.07,0.0,Off Target,16.0,Left Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+92,Martin Ødegaard,Arsenal,0.11,0.16,Saved,18.0,Right Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+93,Gabriel Martinelli,Arsenal,0.6,0.73,Goal,13.0,Right Foot,,2025-04-16,https://fbref.com/en/matches/b3039bb2/Real-Madrid-Arsenal-April-16-2025-Champions-League,b3039bb2
+6,Leandro Trossard,Arsenal,0.19,0.0,Blocked,8.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+14,Leandro Trossard,Arsenal,0.11,0.35,Goal,12.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+18,Leandro Trossard,Arsenal,0.03,0.0,Off Target,22.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+22,Gabriel Martinelli,Arsenal,0.02,0.0,Blocked,15.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+24,Mikel Merino,Arsenal,0.26,0.0,Off Target,2.0,Head,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+28,Mikel Merino,Arsenal,0.18,0.0,Off Target,9.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+28,Gabriel Martinelli,Arsenal,0.51,0.95,Goal,8.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+36,Bukayo Saka,Arsenal,0.02,0.0,Off Target,19.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+38,Bukayo Saka,Arsenal,0.38,0.0,Off Target,14.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+42,Ben White,Arsenal,0.02,0.0,Blocked,20.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+44,Bukayo Saka,Arsenal,0.12,0.0,Off Target,10.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+47,Martin Ødegaard,Arsenal,0.02,0.11,Saved,13.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+48,Gabriel Martinelli,Arsenal,0.05,0.0,Blocked,13.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+62,Ethan Nwaneri,Arsenal,0.06,0.0,Blocked,11.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+63,Martin Ødegaard,Arsenal,0.04,0.18,Saved,25.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+68,Gabriel Martinelli,Arsenal,0.05,0.0,Blocked,15.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+69,Gabriel Martinelli,Arsenal,0.04,0.0,Blocked,22.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+69,Leandro Trossard,Arsenal,0.04,0.14,Goal,11.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+80,Myles Lewis-Skelly,Arsenal,0.08,0.0,Blocked,15.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+87,Oleksandr Zinchenko,Arsenal,0.06,0.0,Blocked,30.0,Left Foot,Free kick,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+87,Martin Ødegaard,Arsenal,0.03,0.0,Woodwork,23.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+87,Nathan Butler-Oyedeji,Arsenal,0.07,0.3,Saved,16.0,Right Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+88,Ethan Nwaneri,Arsenal,0.1,0.6,Goal,14.0,Left Foot,Deflected,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+93,Oleksandr Zinchenko,Arsenal,0.04,0.0,Off Target,16.0,Left Foot,,2025-04-20,https://fbref.com/en/matches/2b599f1a/Ipswich-Town-Arsenal-April-20-2025-Premier-League,2b599f1a
+3,Jakub Kiwior,Arsenal,0.04,0.38,Goal,14.0,Head,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+10,Declan Rice,Arsenal,0.04,0.0,Off Target,16.0,Right Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+23,Declan Rice,Arsenal,0.06,0.0,Off Target,24.0,Right Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+42,Leandro Trossard,Arsenal,0.09,0.73,Goal,15.0,Left Foot,Deflected,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+47,Gabriel Martinelli,Arsenal,0.03,0.13,Saved,27.0,Right Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+48,William Saliba,Arsenal,0.13,0.0,Blocked,10.0,Right Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+48,Leandro Trossard,Arsenal,0.48,0.0,Blocked,4.0,Left Foot,Deflected,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+70,Martin Ødegaard,Arsenal,0.1,0.0,Blocked,17.0,Left Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+79,Martin Ødegaard,Arsenal,0.02,0.0,Blocked,24.0,Left Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+80,Bukayo Saka,Arsenal,0.11,0.58,Saved,9.0,Left Foot,"Deflected, Volley",2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+81,Leandro Trossard,Arsenal,0.11,0.0,Off Target,6.0,Head,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+92,Gabriel Martinelli,Arsenal,0.04,0.0,Off Target,15.0,Left Foot,,2025-04-23,https://fbref.com/en/matches/67651145/Arsenal-Crystal-Palace-April-23-2025-Premier-League,67651145
+24,Jakub Kiwior,Arsenal,0.03,0.01,Saved,15.0,Head,,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+39,Bukayo Saka,Arsenal,0.03,0.02,Saved,25.0,Left Foot,,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+40,Gabriel Martinelli,Arsenal,0.83,0.0,Off Target,3.0,Right Foot,Volley,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+41,Leandro Trossard,Arsenal,0.16,0.75,Saved,10.0,Right Foot,Volley,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+45,Gabriel Martinelli,Arsenal,0.22,0.2,Saved,13.0,Right Foot,,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+52,Leandro Trossard,Arsenal,0.03,0.0,Blocked,18.0,Right Foot,Volley,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+52,Jakub Kiwior,Arsenal,0.02,0.0,Blocked,30.0,Left Foot,,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+56,Leandro Trossard,Arsenal,0.26,0.28,Saved,11.0,Left Foot,,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+88,Declan Rice,Arsenal,0.04,0.0,Blocked,23.0,Right Foot,Free kick,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+93,Gabriel Martinelli,Arsenal,0.06,0.0,Off Target,18.0,Right Foot,,2025-04-29,https://fbref.com/en/matches/d85808e6/Arsenal-Paris-Saint-Germain-April-29-2025-Champions-League,d85808e6
+15,Declan Rice,Arsenal,0.09,0.0,Off Target,15.0,Left Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+17,Declan Rice,Arsenal,0.04,0.0,Off Target,17.0,Right Foot,Volley,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+27,Gabriel Martinelli,Arsenal,0.06,0.0,Off Target,18.0,Left Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+31,Leandro Trossard,Arsenal,0.09,0.37,Saved,9.0,Head,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+34,Declan Rice,Arsenal,0.45,0.98,Goal,11.0,Right Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+44,Leandro Trossard,Arsenal,0.06,0.0,Blocked,17.0,Right Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+48,Bukayo Saka,Arsenal,0.2,0.0,Off Target,8.0,Head,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+52,Bukayo Saka,Arsenal,0.14,0.0,Blocked,10.0,Right Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+54,Bukayo Saka,Arsenal,0.11,0.11,Saved,9.0,Head,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+56,Bukayo Saka,Arsenal,0.03,0.0,Off Target,13.0,Right Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+63,Gabriel Martinelli,Arsenal,0.02,0.21,Saved,18.0,Right Foot,Deflected,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+93,Martin Ødegaard,Arsenal,0.06,0.0,Blocked,26.0,Left Foot,Free kick,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+93,Martin Ødegaard,Arsenal,0.06,0.0,Blocked,11.0,Right Foot,,2025-05-03,https://fbref.com/en/matches/ad3827f3/Arsenal-Bournemouth-May-3-2025-Premier-League,ad3827f3
+3,Declan Rice,Arsenal,0.12,0.0,Off Target,8.0,Head,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+4,Gabriel Martinelli,Arsenal,0.15,0.17,Saved,8.0,Left Foot,Volley,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+8,Martin Ødegaard,Arsenal,0.08,0.24,Saved,19.0,Left Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+10,Jakub Kiwior,Arsenal,0.06,0.0,Blocked,4.0,Head,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+10,Martin Ødegaard,Arsenal,0.03,0.0,Blocked,16.0,Left Foot,Volley,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+19,Gabriel Martinelli,Arsenal,0.03,0.0,Blocked,22.0,Left Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+32,Mikel Merino,Arsenal,0.05,0.0,Off Target,16.0,Left Foot,Volley,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+37,Declan Rice,Arsenal,0.03,0.0,Blocked,24.0,Right Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+37,Jurriën Timber,Arsenal,0.03,0.0,Blocked,15.0,Right Foot,Volley,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+44,Bukayo Saka,Arsenal,0.02,0.0,Off Target,16.0,Left Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+57,Bukayo Saka,Arsenal,0.02,0.0,Blocked,16.0,Right Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+58,Jurriën Timber,Arsenal,0.34,0.0,Off Target,3.0,Head,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+64,Bukayo Saka,Arsenal,0.03,0.47,Saved,19.0,Left Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+76,Bukayo Saka,Arsenal,0.18,0.0,Blocked,11.0,Left Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+76,Bukayo Saka,Arsenal,0.69,0.99,Goal,4.0,Left Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+80,Bukayo Saka,Arsenal,0.78,0.0,Off Target,10.0,Right Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+89,Ben White,Arsenal,0.08,0.0,Off Target,5.0,Head,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+92,Mikel Merino,Arsenal,0.07,0.0,Off Target,11.0,Head,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+93,Leandro Trossard,Arsenal,0.11,0.0,Blocked,17.0,Right Foot,,2025-05-07,https://fbref.com/en/matches/a73bdd5b/Paris-Saint-Germain-Arsenal-May-7-2025-Champions-League,a73bdd5b
+3,Bukayo Saka,Arsenal,0.25,0.0,Off Target,8.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+15,Leandro Trossard,Arsenal,0.21,0.0,Blocked,12.0,Right Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+23,Mikel Merino,Arsenal,0.05,0.0,Blocked,21.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+29,Bukayo Saka,Arsenal,0.05,0.0,Off Target,14.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+41,Martin Ødegaard,Arsenal,0.03,0.0,Blocked,16.0,Right Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+46,Mikel Merino,Arsenal,0.42,0.0,Blocked,10.0,Right Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+47,Gabriel Martinelli,Arsenal,0.28,0.81,Goal,9.0,Head,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+50,Bukayo Saka,Arsenal,0.02,0.0,Blocked,19.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+51,Leandro Trossard,Arsenal,0.09,0.0,Off Target,19.0,Right Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+54,Ben White,Arsenal,0.05,0.08,Saved,13.0,Right Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+61,Gabriel Martinelli,Arsenal,0.17,0.24,Saved,9.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+62,Bukayo Saka,Arsenal,0.06,0.13,Saved,25.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+70,Martin Ødegaard,Arsenal,0.03,0.23,Saved,27.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+70,Mikel Merino,Arsenal,0.8,0.99,Goal,6.0,Head,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+95,Martin Ødegaard,Arsenal,0.1,0.0,Off Target,22.0,Left Foot,,2025-05-11,https://fbref.com/en/matches/0dc9bdd9/Liverpool-Arsenal-May-11-2025-Premier-League,0dc9bdd9
+9,Thomas Partey,Arsenal,0.03,0.0,Blocked,18.0,Right Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+13,Leandro Trossard,Arsenal,0.05,0.0,Blocked,13.0,Right Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+14,Thomas Partey,Arsenal,0.21,0.67,Saved,3.0,Head,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+15,Martin Ødegaard,Arsenal,0.03,0.0,Off Target,26.0,Left Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+28,Declan Rice,Arsenal,0.02,0.03,Saved,33.0,Right Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+50,Myles Lewis-Skelly,Arsenal,0.04,0.0,Blocked,16.0,Left Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+51,Gabriel Martinelli,Arsenal,0.07,0.0,Off Target,6.0,Right Foot,Volley,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+55,Declan Rice,Arsenal,0.07,0.58,Goal,24.0,Right Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+59,Bukayo Saka,Arsenal,0.03,0.0,Blocked,22.0,Left Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+61,Bukayo Saka,Arsenal,0.03,0.07,Saved,17.0,Left Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+69,Ben White,Arsenal,0.02,0.0,Off Target,28.0,Right Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+90,Gabriel Martinelli,Arsenal,0.05,0.0,Blocked,12.0,Left Foot,,2025-05-18,https://fbref.com/en/matches/0a51acae/Arsenal-Newcastle-United-May-18-2025-Premier-League,0a51acae
+2,Gabriel Martinelli,Arsenal,0.02,0.02,Saved,12.0,Head,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+4,Mikel Merino,Arsenal,0.14,0.0,Off Target,11.0,Head,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+7,Raheem Sterling,Arsenal,0.11,0.0,Off Target,16.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+10,Declan Rice,Arsenal,0.04,0.0,Blocked,22.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+24,Mikel Merino,Arsenal,0.1,0.0,Woodwork,5.0,Head,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+27,Thomas Partey,Arsenal,0.03,0.02,Saved,29.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+41,Gabriel Martinelli,Arsenal,0.51,0.29,Saved,18.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+42,Oleksandr Zinchenko,Arsenal,0.02,0.0,Blocked,26.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+43,Kieran Tierney,Arsenal,0.15,0.44,Goal,6.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+53,Ethan Nwaneri,Arsenal,0.02,0.12,Saved,19.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+59,Gabriel Martinelli,Arsenal,0.32,0.0,Blocked,5.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+59,Oleksandr Zinchenko,Arsenal,0.02,0.0,Blocked,23.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+59,Ethan Nwaneri,Arsenal,0.02,0.0,Blocked,24.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+67,Gabriel Martinelli,Arsenal,0.04,0.0,Off Target,14.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+67,Oleksandr Zinchenko,Arsenal,0.31,0.0,Blocked,15.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+68,Bukayo Saka,Arsenal,0.04,0.0,Blocked,8.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+69,Oleksandr Zinchenko,Arsenal,0.03,0.0,Blocked,24.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+76,Mikel Merino,Arsenal,0.03,0.0,Blocked,17.0,Left Foot,Volley,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+76,Declan Rice,Arsenal,0.11,0.12,Saved,10.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+80,Leandro Trossard,Arsenal,0.1,0.0,Blocked,13.0,Right Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+90,Martin Ødegaard,Arsenal,0.06,0.4,Goal,27.0,Left Foot,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+92,Bukayo Saka,Arsenal,0.03,0.0,Blocked,13.0,Left Foot,Deflected,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
+93,Kai Havertz,Arsenal,0.14,0.0,Off Target,9.0,Head,,2025-05-25,https://fbref.com/en/matches/01d155b4/Southampton-Arsenal-May-25-2025-Premier-League,01d155b4
