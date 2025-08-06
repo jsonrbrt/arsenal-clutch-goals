@@ -153,7 +153,7 @@ A long ball from Ben White caught Andrew Robertson napping, Saka took a touch to
 
 Saka was in fine form in the first quarter of the season with 10 goals + assists in all competitions going to this match. It’s a shame he suffered a hamstring injury in late December as Arsenal fans wonder what might have been had Saka managed to stay fit.
 
-![Arsenal Attack with and without Saka](html_exports/saka_on_off_per90.html)
+![Arsenal Attack with and without Saka](visuals/saka_on_off.png)
 
 7. **Riccardo Calafiori** at Manchester City, Premier League	
 
